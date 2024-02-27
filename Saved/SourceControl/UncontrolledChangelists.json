@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VO/VMN4G7K3NKKV6F8HTPHHDB.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/FPWeapon/Audio/324334__gosfx__light-switch.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/LevelPrototyping/Sound/324334__gosfx__light-switch.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/LR/K2EC6QGT0TSG7OIGAZZLUZ.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/B0/OUKQRJTMFRQ2T6SRNCJXON.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/0F/UZ8XTFUEFHRHCPRX2H6VRG.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/71/EJ2XEVFIMDWDQJGF7F2WA2.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/TD/QM0M9CHWOHH7XBI05Y2UTL.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/0Z/5RQIHCZ9W3UXRGL4LTLQAK.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/LF/VBYU0Y3J416P6877MR0V9L.uasset",
+				"C:/Users/Johan/Documents/Unreal Projects/Disturbance/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/2Q/YIM458YGOSU89G4WZYYCSJ.uasset"
+			]
+		}
+	]
+}
